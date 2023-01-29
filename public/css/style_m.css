@@ -26,18 +26,54 @@
 .bg-color{
     background-color:var(--bg-green);
 }
-a{
-    color: var(--bg-white);
- }
- .link{
-    text-align: center;
- }
+
 
 
  /*FIN HEADER*/
+ /***************************************
+
+ /*INDEX*/
+ .bg-personal{
+    background-color: var(--bg-clearBlue);
+    height: 200px;
+ }
+
+ .bg-personal h4{
+    color:var(--bg-darkBlue);
+    margin-left:25px;
+   margin-top:30px;
+ }
+ .content{
+    margin: 100px 0;
+ }
+.trait{
+    border-left: 2px solid var(--bg-green);
+    width:150px;
+}
+.btn-green{
+    background-color: var(--bg-green);
+    color:var(--bg-white);
+    padding:15px;
+    border:none;
+    
+    
+}
+.btn-darkBlue{
+    background-color: var(--bg-darkBlue);
+    color:var(--bg-white);
+    border:none;
+    padding:15px;
+
+}
+
+
+
+ /*FIN INDEX*/
  /***************************************
  /*FOOTER*/
 
  .footer-bg-color{
     background-color: var(--bg-darkBlue);
  }
+ /*FIN FOOTER*/
+ 
