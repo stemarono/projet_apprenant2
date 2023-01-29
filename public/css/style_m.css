@@ -65,6 +65,9 @@
     padding:15px;
 
 }
+.info-color{
+    color:var(--bg-darkBlue);
+}
 
 
 
